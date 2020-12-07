@@ -1,0 +1,5 @@
+# pg_crash extension
+comment = 'pg_crash provides a function to crash the PostgreSQL server.'
+default_version = '1.0'
+module_pathname = '$libdir/pg_crash'
+relocatable = true
