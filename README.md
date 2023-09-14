@@ -33,4 +33,5 @@ testdb=# SELECT pg_crash();
 ```
 
 ## Change Log
- - 7th Dec 2020: Version 1.0 Released.
+- 14th Sep 2023: Checked supporting Version 16.
+- 7th Dec 2020: Version 1.0 Released.
